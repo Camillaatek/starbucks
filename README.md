@@ -1,2 +1,4 @@
 # starbucks
-ecommerce website for starbucks. Using heroku
+ecommerce website for starbucks
+
+
